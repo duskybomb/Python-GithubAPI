@@ -1,6 +1,6 @@
 # Python-GithubAPI
 
-##Setup
+## Setup
 Install PyGithub library
 ```
 $ pip install pygithub
